@@ -588,8 +588,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ by [Your Name]**
+**Built with ❤️ by [Mansi Gambhir]**
 
-[⭐ Star this repo](https://github.com/yourusername/ai-agentic-system) | [🐛 Report Bug](https://github.com/yourusername/ai-agentic-system/issues) | [💡 Request Feature](https://github.com/yourusername/ai-agentic-system/issues)
 
-</div>
