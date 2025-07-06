@@ -1,0 +1,9 @@
+﻿semantic-kernel>=0.4.0
+pandas>=1.5.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+asyncio
+sqlite3
+pytest>=7.0.0
+flask>=2.0.0
+gunicorn>=20.0.0
